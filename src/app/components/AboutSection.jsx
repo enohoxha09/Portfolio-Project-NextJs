@@ -18,7 +18,6 @@ const TAB_DATA = [
         <li>HTML/CSS</li>
         <li>Typescript</li>
         <li>Nest Js</li>
-        
         <li>React</li>
       </ul>
     ),
