@@ -8,7 +8,7 @@ const Footer = () => {
         <span> </span>
        
         
-        <p className="text-slate-600">All rights reserved  @ENO.</p>
+        <p className="text-slate-600">All rights reserved  @ENO. 2024-2025</p>
       </div>
     </footer>
   );
